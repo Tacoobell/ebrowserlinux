@@ -1,2 +1,5 @@
-# ebrowserlinux
-A simple GTK/Python Browser made for linux!
+# ebrowser for Linux (Ubuntu and Deriatives)
+CHANGELOG:
+
+Build J11
+| 1st Version Released! Download .deb file at website
